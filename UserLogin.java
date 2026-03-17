@@ -1,4 +1,3 @@
-// ...existing code...
 import java.util.Scanner;
 
 public class UserLogin {
@@ -27,7 +26,6 @@ public class UserLogin {
         }
     }
 }
-// ...existing code...
 
 class Person {
     protected String name;
